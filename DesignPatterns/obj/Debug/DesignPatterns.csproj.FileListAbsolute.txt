@@ -1,0 +1,9 @@
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\DesignPatterns\DesignPatterns\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.FactoryMethod.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.Properties.Resources.resources
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.csproj.GenerateResource.Cache
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Users\andre.cini\Documents\Visual Studio 2008\Projects\Criptografia_Exemplo\Criptografia_Exemplo\DLL\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.Builder.Builders.resources
